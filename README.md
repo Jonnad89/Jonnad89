@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://divincenzoportfolio.netlify.app/](https://divincenzoportfolio.netlify.app/)
 
-- 💬 Ask me about ****Python, ReactJS, NodeJS, HTML, CSS, JavasCript****
+- 💬 Ask me about ****Python, ReactJS, NodeJS, HTML, CSS, JavaScript****
 
 - 📫 How to reach me **jonnadvwork@gmail.com**
 
