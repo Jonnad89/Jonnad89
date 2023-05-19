@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate web fullstack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Python, PHP**
+- 🌱 I’m a **Python** developer
 
 - 👨‍💻 All of my projects are available at [https://divincenzoportfolio.netlify.app/](https://divincenzoportfolio.netlify.app/)
 
