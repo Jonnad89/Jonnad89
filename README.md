@@ -1,16 +1,22 @@
-<h1 align="center">Hi 👋, I'm Jonatan</h1>
+<h1 align="center">¡Hola! Soy Jonatan 👋</h1>
 
 <img src= "https://elmejorsoftware.com/imagenes/los-10-mejores-software-de-programacion-1024x500.jpg" width=800/>
 
-<h3 align="center">A passionate web fullstack developer from Argentina</h3>
+<h3 align="center">💻 Desarrollador web | 🌱 Paisajista | 💪 Apasionado del gym | 🍳 Cocinero por elección</h3>
 
-- 🌱 I’m a **Python** developer
+🛠️ Tech Stack:  
+Reactjs · JavaScript · Node.js · HTML · CSS · APIs · Responsive Design · Python · Java
 
-- 👨‍💻 All of my projects are available at [https://divincenzoportfolio.netlify.app/](https://divincenzoportfolio.netlify.app/)
+🎓 Doy clases particulares de programación (front-end y lógica desde cero)
 
-- 💬 Ask me about ****Python, ReactJS, NodeJS, HTML, CSS, JavaScript****
+🧠 Compartiendo conocimiento en X, Threads y TikTok
 
-- 📫 How to reach me **jonnadvwork@gmail.com**
+📫 Contactame: jonnadvwork@gmail.com
+
+
+- 👨‍💻 Varios de mis proyectos están en: [https://divincenzoportfolio.netlify.app/](https://divincenzoportfolio.netlify.app/)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
